@@ -1,7 +1,7 @@
 # Weather App
 
 <p>
-This is a simple waether application created using HTML, CSS and Javascript.
+This is a simple weather application created using HTML, CSS and Javascript.
 </p>
 
 ### External Technologies used
